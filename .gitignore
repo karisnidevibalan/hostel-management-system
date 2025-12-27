@@ -1,0 +1,12 @@
+# Node
+node_modules/
+.env
+dist/
+hostel.db
+
+# VSCode
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
